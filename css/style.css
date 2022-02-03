@@ -1,0 +1,32 @@
+.margin {
+    padding: 0px;
+    margin: 0;
+}
+{
+    width: 1500px;
+}
+.navbar {
+    background-color: #f1948A ;
+}
+.quem-somos {
+    background-color: #954ee7;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+div > h3 {
+    margin: 20px;
+}
+.parceiros, .servicos { padding: 0;}
+.fundo{
+    text-decoration: none;
+}
+ul, li {
+    
+    display: inline;
+  list-style-type: none;
+  text-align: center;
+}
+footer > div {
+    text-align: center;
+}
